@@ -1,0 +1,338 @@
+.body{
+    width: 1000px;
+    height: 85px;
+    background-color: #2d259f;
+    margin:auto;
+}
+
+
+.button{
+    margin-top: 20px;
+    display: flex;
+    color: white;
+    float: left;
+    
+   
+}
+
+.a{
+    padding: 0px 30px 0px 0px;
+    margin-left: 70px;
+}
+.b{
+    padding: 0px 30px 0px 0px;
+}
+.c{
+    padding: 0px 30px 0px 0px;
+}
+.d{
+    padding: 0px 30px 0px 0px;
+}
+.e{
+    padding: 0px 30px 0px 0px;
+}
+.butto{
+    float: right;
+    margin-right: 90px;
+    margin-top: 33px;
+    display: inline-block; 
+}
+
+.butto button{
+    background-color: rgb(245, 3, 63);
+    border: none;
+    padding: 10px 15px 10px 15px;
+    color: white;
+}
+.butto button b{
+    padding: 10px 15px 10px 15px;
+    color: white;
+}
+
+
+
+
+.seconed{
+    width: 1000px;
+    background-color: #2d259f;
+    height: 400px;
+    margin-top: -20px; 
+    display: flex; 
+}
+.textfirst{
+    margin-left: 68px;
+    color: white;
+    width: 300px;
+    font-size: 30px; 
+}
+.textfirst button{
+    background-color: rgb(245, 3, 63);
+    border: none;
+    color: white;
+    padding: 5px 10px 5px 10px ;
+    margin-top: -10px;
+}
+.textfirst button b{
+    padding: 5px 10px 5px 10px ;
+}
+.img{
+    margin-left: 100px;
+    margin-top: 10px; 
+}
+
+
+
+
+
+
+
+
+
+
+.mnd{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 88px;
+}
+.mesi p{
+    width: 200px;
+    font-size:small;
+    color: gray;
+    
+    
+}
+.mesi{
+    padding: 20px 20px 0px 20px;
+    box-shadow: 0px 0px 11px 2px #c7c6c6; 
+}
+.neymar p{
+    width: 200px;
+    font-size:small;
+    color: gray;  
+}
+.neymar{
+    padding: 20px 20px 0px 20px;
+    box-shadow: 0px 0px 11px 2px #c7c6c6;
+    margin-left: 50px;
+}
+.rolando p{
+    width: 200px;
+    font-size:small;
+    color: gray;   
+}
+.rolando{
+    padding: 20px 20px 0px 20px;
+    box-shadow: 0px 0px 11px 2px #c7c6c6;
+    margin-left: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.usd{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 88px;
+}
+.ujil p{
+    width: 200px;
+    font-size:small;
+    color: gray;
+    
+    
+}
+.ujil{
+    padding: 20px 20px 0px 20px;
+    box-shadow: 0px 0px 11px 2px #c7c6c6; 
+}
+.salha p{
+    width: 200px;
+    font-size:small;
+    color: gray;  
+}
+.salha{
+    padding: 20px 20px 0px 20px;
+    box-shadow: 0px 0px 11px 2px #c7c6c6;
+    margin-left: 50px;
+}
+.dimaria p{
+    width: 200px;
+    font-size:small;
+    color: gray;   
+}
+.dimaria{
+    padding: 20px 20px 0px 20px;
+    box-shadow: 0px 0px 11px 2px #c7c6c6;
+    margin-left: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+.dbm{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 88px;
+}
+.dybala p{
+    width: 200px;
+    font-size:small;
+    color: gray;
+
+    
+    
+}
+.dybala{
+    padding: 20px 20px 0px 20px;
+    box-shadow: 0px 0px 11px 2px #c7c6c6; 
+}
+.bappy p{
+    width: 200px;
+    font-size:small;
+    color: gray;  
+}
+.bappy{
+    padding: 20px 20px 0px 20px;
+    box-shadow: 0px 0px 11px 2px #c7c6c6;
+    margin-left: 50px;
+}
+.mauro p{
+    width: 200px;
+    font-size:small;
+    color: gray;   
+}
+.mauro{
+    padding: 20px 20px 0px 20px;
+    box-shadow: 0px 0px 11px 2px #c7c6c6;
+    margin-left: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+.hkp{
+    display: flex;
+    margin-top: 50px;
+    margin-left: 88px;
+}
+.harry p{
+    width: 200px;
+    font-size:small;
+    color: gray;
+    
+    
+}
+.harry{
+    padding: 20px 20px 0px 20px;
+    box-shadow: 0px 0px 11px 2px #c7c6c6; 
+}
+.kevin p{
+    width: 200px;
+    font-size:small;
+    color: gray;  
+}
+.kevin{
+    padding: 20px 20px 0px 20px;
+    box-shadow: 0px 0px 11px 2px #c7c6c6;
+    margin-left: 50px;
+}
+.phi p{
+    width: 200px;
+    font-size:small;
+    color: gray;   
+}
+.phi{
+    padding: 20px 20px 0px 20px;
+    box-shadow: 0px 0px 11px 2px #c7c6c6;
+    margin-left: 50px;
+}
+
+
+
+
+
+
+.high{
+    display: flex;
+    margin-top: 100px;
+    margin-left: 89px;
+    
+    
+}
+
+.tonu {
+    width: fit-content;
+    display: inline-block;
+    
+
+}
+.buttonn{ 
+    background-color: rgb(245, 3, 63);
+    border: none;
+    padding: 5px 15px 5px 15px;
+    color: white;
+      
+}
+
+.mn{
+    margin-left: 85px;
+}
+
+
+
+.football{
+    margin-left:350px;
+    margin-top: 150px; 
+}
+
+
+.laste{
+    margin-top: 30px;
+    display: flex;
+    margin-left: 430px;
+}
+
+.b{
+    padding-left: 18px;
+    padding-right: 18px;
+}
+.tw{
+    padding-left:0px;
+    padding-right: 18px;
+}
+
+.lt{
+    text-align: center;
+    margin-top: 10px;
+    display: block;
+    
+    background-color: #2d259f;
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
